@@ -1,5 +1,4 @@
 # TopicosTelematica-Proyecto2
-# dalvarezg-st0263
 # Info de la materia: ST0263 Topicos especiales en Telematica.
 
 ## Estudiante(s):
