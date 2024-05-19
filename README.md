@@ -29,9 +29,7 @@ Se cumplieron todos los requerimientos del proyecto 2:
 Se cumplieron todos los requerimientos necesarios
 # 2. información general de diseño de alto nivel, arquitectura, patrones, mejores prácticas utilizadas.
 Arquitectura:
-![image](https://github.com/Davidrk31/reto4TopicosTelematica/assets/89051979/c9cbd79c-61bf-4ffd-84b8-07f1945580f3)
-
-El usuario se conecta a la pagina web mediante https gracias al certificado ssl luego el balanceador en nginx actua y distribuye las peticiones del usuario entre las distintas instancias de wordpress, luego cada wordpress apunta a un server NFS y a la base de datos, esta se encuentra fuera del cluster y la realizamos en GPC.
+![image](https://github.com/Davidrk31/TopicosTelematica-Proyecto2/assets/89051979/53f1472c-cb73-4fbe-81b4-87e426e8c319)
 
 
 # 3. Descripción del ambiente de desarrollo y técnico: lenguaje de programación, librerias, paquetes, etc, con sus numeros de versiones.
