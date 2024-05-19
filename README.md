@@ -1,4 +1,4 @@
-# dalvarezg-st0263
+# Proyecto 2
 # Info de la materia: ST0263 Topicos especiales en Telematica.
 
 ## Estudiante(s):
@@ -9,7 +9,7 @@
 - **Nombre:** Alvaro Enrique Ospina Sanjuan
 - **Correo Electrónico:** aeospinas@eafit.edu.co
 
-## Reto 4.
+## Proyecto 2.
 
 ## 1. Breve descripción de la actividad.
 En este proyecto, desplegaremos una aplicación WordPress utilizando MicroK8s en Google Cloud Platform (GCP). En GCP, configuramos tanto el nodo maestro como los nodos trabajadores para implementar MicroK8s, que nos permite crear un clúster propio de Kubernetes. Además, se configuró una máquina como servidor NFS para garantizar la persistencia de los datos de WordPress y la base de datos, asegurando así la persistencia de los datos.
