@@ -108,4 +108,6 @@ El proyecto se encuentra   en https://proyecto2.construmarket.tech/
 * [SSL](https://stackoverflow.com/questions/67430592/how-to-setup-letsencrypt-with-kubernetes-microk8s-using-default-ingress)
 
 
+# Sustentacion:
 
+https://github.com/Davidrk31/TopicosTelematica-Proyecto2/blob/main/Sustentacion/Proyecto2Sustentacion.mp4
